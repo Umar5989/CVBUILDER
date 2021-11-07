@@ -1,3 +1,38 @@
+php artisan migrate
+after this register youself
+
+use Auth,
+use package for download cv into pdf of laravel,
+done A CURD operation for cv,
+
+for cv first a person register it and then make a cv, 2nd time it simple login and edit our cv.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
